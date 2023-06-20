@@ -1,4 +1,4 @@
-package kr.excel.example;
+package ExcelAPI.Entity;
 
 public class MemberVO {
     private String name;

@@ -1,5 +1,6 @@
-package kr.excel.example;
+package ExcelAPI;
 
+import ExcelAPI.Entity.MemberVO;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
