@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b4bd1e9-50c0-407d-b386-f73228f31d8a" name="변경" comment="JavaProject">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject00/example.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/BookSearchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/KakaoBookApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/PdfGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/Model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/NanumGothicLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/도서목록.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/PdfGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +56,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/JavaProject00/PdfAPI" />
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject00" />
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject02" />
     </key>
@@ -114,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687218958015</updated>
-      <workItem from="1687218959222" duration="8451000" />
+      <workItem from="1687218959222" duration="8812000" />
     </task>
     <task id="LOCAL-00001" summary="project start">
       <created>1687219105128</created>
@@ -151,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687326382376</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JavaProject">
+      <created>1687327382773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1687327382773</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -35,6 +35,7 @@ public class PdfGenerator {
             e1.printStackTrace();
         }
         document.setFont(font);
+
         // 타이틀 추가
         Paragraph titleParagraph = new Paragraph("도서 목록");
         titleParagraph.setFontSize(24);
