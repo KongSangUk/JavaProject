@@ -1,4 +1,4 @@
-package PdfAPI;
+package JavaProject00.PdfAPI;
 
 import java.io.File;
 import java.io.IOException;

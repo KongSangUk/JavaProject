@@ -1,4 +1,4 @@
-package ExcelAPI.Entity;
+package JavaProject00.Entity;
 
 public class MemberVO {
     private String name;
