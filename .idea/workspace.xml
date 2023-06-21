@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b4bd1e9-50c0-407d-b386-f73228f31d8a" name="변경" comment="JavaProject">
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/PdfGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaProject02/Controller/PdfGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject03/KakaoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject03/KakaoMapMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687218958015</updated>
-      <workItem from="1687218959222" duration="8812000" />
+      <workItem from="1687218959222" duration="9684000" />
     </task>
     <task id="LOCAL-00001" summary="project start">
       <created>1687219105128</created>
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687327382773</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaProject">
+      <created>1687327674689</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687327674689</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
