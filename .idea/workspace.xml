@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b4bd1e9-50c0-407d-b386-f73228f31d8a" name="변경" comment="JavaProject">
+    <list default="true" id="7b4bd1e9-50c0-407d-b386-f73228f31d8a" name="변경" comment="JavaProject04">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject05/CovidScraper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject05/CovidStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject05/ExcelExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject05/PdfExporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaProject05/covid_status_2023년_04.06._00시_기준 (1).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/covid_status_2023년_04.06._00시_기준 (1).xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +62,8 @@
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/JavaProject05" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject00/PdfAPI" />
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject00" />
       <recent name="$PROJECT_DIR$/src/main/java/JavaProject02" />
@@ -107,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687218958015</updated>
-      <workItem from="1687218959222" duration="10915000" />
+      <workItem from="1687218959222" duration="12600000" />
     </task>
     <task id="LOCAL-00001" summary="project start">
       <created>1687219105128</created>
@@ -165,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687334441570</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="JavaProject04">
+      <created>1687433804544</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687433804544</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +203,7 @@
     <MESSAGE value="Excel에 회원정보 저장" />
     <MESSAGE value="Pdf API(iText) 활용" />
     <MESSAGE value="JavaProject" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaProject" />
+    <MESSAGE value="JavaProject04" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaProject04" />
   </component>
 </project>
